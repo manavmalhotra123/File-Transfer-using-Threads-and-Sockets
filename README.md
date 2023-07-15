@@ -12,6 +12,8 @@ pip install requirements.txt
 
 
 -----------------If want to use the client and server seperately then ------------------------------- 
+
+
 streamlit run ClientApp.py
 
 ![Screenshot from 2023-07-15 14-49-34](https://github.com/manavmalhotra123/File-Transfer-using-Threads-and-Sockets/assets/110531978/b3bc4e48-3807-4aa9-be47-eeb9910dfc07)
